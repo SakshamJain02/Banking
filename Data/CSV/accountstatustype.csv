@@ -1,0 +1,6 @@
+AccountStatusTypeID,AccountStatusTypeDescription
+1,Closed
+2,Active
+3,Dormant
+4,Passive
+5,Frozen

@@ -1,0 +1,6 @@
+EmployeeID,EmployeeFirstName,EmployeeMiddleInitial,EmployeeLastName,EmployeeisManager
+1,John,D,Doe,1
+2,Jane,M,Smith,1
+3,Mark,R,Johnson,0
+4,Emily,L,Davis,0
+5,Michael,J,Miller,0

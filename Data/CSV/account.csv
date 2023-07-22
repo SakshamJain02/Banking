@@ -1,0 +1,6 @@
+AccountID,CurrentBalance,AccountTypeID,AccountStatusTypeID,InterestSavingRatesID
+1,15000.7,1,1,1
+2,25000.5,2,2,2
+3,17000.2,1,1,1
+4,45000.0,2,2,2
+5,2320.0,2,2,2

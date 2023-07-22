@@ -1,0 +1,6 @@
+CustomerID,AccountID,CustomerAddress1,CustomerAddress2,CustomerFirstName,CustomerMiddleInitial,CustomerLastName,City,State,ZipCode,EmailAddress,HomePhone,CellPhone,WorkPhone,UserLoginID
+1,1,Address1,Address2,Customer1,U,CLastname1,Ottawa,ON,3A5z9z,user5@user.com,141655555,453554464,3462325,1
+2,2,Address1,Address2,Customer2,K,CLastname2,Hamilton,ON,fe3453,user6@user.com,141655555,567435345,6332423,2
+3,3,Address1,Address2,Customer3,P,CLastname3,Vancouver,BC,fdf45,user7@user.com,141655555,681316226,9202521,3
+4,4,Address1,Address2,Customer4,B,CLastname4,London,ON,23ffbfs,user8@user.com,141655555,795197107,8674252,4
+5,5,Address1,Address2,Customer5,K,CLastname5,Calgary,AB,hg4536,user9@user.com,141655555,909077988,9209371,5

@@ -1,0 +1,6 @@
+FailedTransactionID,FailedTransactionErrorTypeID,FailedTransactionErrorTime,FailedTransactionErrorXML
+1,1,2023-06-25 08:30:56,<xml>...</xml>
+2,2,2023-06-26 12:34:57,<xml>...</xml>
+3,3,2023-06-27 02:14:00,<xml>...</xml>
+4,4,2023-06-27 05:56:59,<xml>...</xml>
+5,5,2023-06-28 08:34:15,<xml>...</xml>

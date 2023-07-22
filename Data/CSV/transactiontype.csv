@@ -1,0 +1,6 @@
+TransactionTypeID,TransactionTypeName,TransactionTypeDescription,TransactionFeeAmount
+1,Deposit,Deposit money,0.0
+2,Withdrawal,Withdraw money,2.5
+3,Transfer,Transfer money,1.0
+4,Payment,Make a payment,0.5
+5,Balance,Check balance,0.0

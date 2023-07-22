@@ -1,0 +1,6 @@
+FailedTransactionErrorTypeID,FailedTransactionErrorTypeDescription
+1,Withdraw limit reached
+2,Daily limit reached
+3,Insufficient balance
+4,Invalid denomination
+5,ATM machine down
